@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age in Minutes</string>
+    <string name="calcYour">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="inMin">IN MINUTES</string>
+    <string name="date">Selected Date</string>
+    <string name="button">Select Date</string>
+    <string name="bDay">20.1.1999</string>
+</resources>
